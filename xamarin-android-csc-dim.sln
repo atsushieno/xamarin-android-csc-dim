@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CscDimCodeProvider", "CscDimCodeProvider\CscDimCodeProvider.csproj", "{9D6DD82A-8FC0-4567-8C26-93CBA44CF931}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CscDimCodeProvider.Tests", "CscDimCodeProvider.Tests\CscDimCodeProvider.Tests.csproj", "{2A847E8B-9B86-4C32-BCC7-33B128B10DCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D6DD82A-8FC0-4567-8C26-93CBA44CF931}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D6DD82A-8FC0-4567-8C26-93CBA44CF931}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D6DD82A-8FC0-4567-8C26-93CBA44CF931}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D6DD82A-8FC0-4567-8C26-93CBA44CF931}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A847E8B-9B86-4C32-BCC7-33B128B10DCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A847E8B-9B86-4C32-BCC7-33B128B10DCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A847E8B-9B86-4C32-BCC7-33B128B10DCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A847E8B-9B86-4C32-BCC7-33B128B10DCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

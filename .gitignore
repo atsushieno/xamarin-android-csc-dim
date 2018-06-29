@@ -1,2 +1,6 @@
 *.nupkg
-
+bin
+obj
+packages
+*.exe
+tools/CscDimCodeProvider.*
